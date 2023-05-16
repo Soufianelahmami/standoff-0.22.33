@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"In the annals of history, there have been numerous instances of standoffs that have captivated the world's attention.","photo2":"https://iili.io/HUrbQDP.jpg"},
+  {"desc3":"One such incident, known as the Standoff at Point 22-33, unfolded in a remote region, highlighting the complexities and challenges inherent in conflicts. ","photo3":"https://iili.io/HUrbsRV.jpg"},
+  {"desc4":" This essay aims to provide a comprehensive analysis of the events leading up to the standoff, the key players involved, the factors that contributed to the escalation, and the eventual resolution that brought an end to the crisis.","photo4":"https://iili.io/HUrbtx1.jpg"},
+  {"desc5":"By delving into this significant episode, we can gain valuable insights into the intricacies of conflict management and the importance of diplomatic negotiations.","photo5":"https://iili.io/HUrbLOB.jpg"},
+  {"descd":"Point 22-33, a fictional location chosen for the purpose of this essay, lies on the border between two neighboring countries, Alpha and Omega.","photod":"https://iili.io/HUrbDWF.jpg"}
    ]
  
 }
